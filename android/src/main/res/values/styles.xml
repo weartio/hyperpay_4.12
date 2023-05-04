@@ -22,11 +22,13 @@
     </style>
 
     <!--    DEFAULT COLORS YOU CAN OVERRIDE IN YOUR APP-->
-    <color name="checkoutProgressBarStyle">#214282</color>
-    <color name="headerBackground">#214282</color>
+    <color name="checkoutProgressBarStyle">#464674</color>
+    <color name="headerBackground">#464674</color>
     <color name="cancelButtonTintColor">#FFFFFF</color>
-    <color name="listMarkTintColor">#214282</color>
-    <color name="cameraTintColor">#214282</color>
-    <color name="checkboxButtonTintColor">#214282</color>
+    <color name="listMarkTintColor">#464674</color>
+    <color name="cameraTintColor">#464674</color>
+    <color name="checkboxButtonTintColor">#464674</color>
+
+
 
 </resources>
